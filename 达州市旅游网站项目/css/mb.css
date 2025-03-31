@@ -1,0 +1,228 @@
+.mb-nav{
+    height: 8vw;
+}
+
+.mb-header{
+    height: 8vw;
+}
+
+.mb-nav-main{
+    width: 95vw;
+}
+
+.mb-nav-main img{
+    height: 8vw;
+}
+
+.mb-nav-text-main li{
+    width: 10vw;
+    font-size: 2.1vw;
+}
+
+
+.mb-nav-text a img{
+    height: 2.5vw;
+    width: 2.5vw;
+}
+
+.mb-nav-text button{
+    font-size: 1.3vw;
+    padding: 0.3vw 0.5vw;
+}
+
+.mb-swiper{
+    width: 100%;
+    height: 50vw;
+    overflow: hidden;
+}
+
+.mb-news{
+    width: 95vw;
+    margin: 0 auto;
+}
+
+.mb-news-main{
+    width: 100%;
+    padding: 1.3vw 0;
+}
+
+.mb-news-main-left{
+    width: 95vw;
+    height: 55vw;   
+}
+
+.mb-news-video-icon{
+    width: 20vw;
+    height: 20vw;
+}
+
+.mb-news-main-right{
+    margin: 2vw 0 0 0; 
+    width: 95vw;
+    height: 37vw;
+}
+
+.mb-news-main-right-title{
+    line-height: 3.2vw;
+    font-size: 3vw;
+}
+
+.mb-news-main-right-title a{
+    width: 10vw;
+    font-size: 2.4vw;
+}
+
+.mb-news-main-right-title-left img{
+    width: 4vw;
+    height: 4vw;
+
+}
+
+.mb-news-main-right-list{
+    height: auto;
+}
+
+.mb-news-main-right-list-main{
+    height: 5vw;
+}
+
+.mb-news-main-right-list-main p{
+    font-size: 3vw;
+}
+
+.mb-news-main-right-list-main span{
+    width: 20vw;
+    font-size: 2.7vw;
+}
+
+
+
+.mb-dzhyn{
+    height: 51vw;
+}
+
+.mb-dzhyn-main{
+    width: 90vw;
+}
+
+.mb-dz-text{
+    width: 90%;
+    height: 47vw;
+    margin-top: 2vw;
+    background: rgba(0, 0, 0, .3);
+}
+
+.mb-dz-text ul li span{
+    width: 19vw;
+    height: 4vw;
+    font-size: 2.7vw;
+    line-height: 4vw;
+    padding: 0 1vw;
+}
+
+.mb-dz-text ul li{
+    font-size: 1.7vw;
+}
+
+
+
+.mb-dz-culture{
+    width: 95vw;
+}
+
+.mb-dz-culture-main-title{
+    height: auto; 
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+}
+
+.mb-dz-culture-main-title img{
+    width: 30vw;
+}
+
+.mb-img-01{
+    width: 30vw;
+    height: 20vw;
+}
+
+.mb-img-02{
+    width: 13vw;
+    height: 20vw;
+}
+
+.mb-img-03{
+    width: 20vw;
+    height: 20vw;
+}
+
+.mb-img-04{
+    width: 30vw;
+    height: 20vw;
+}
+
+.mb-img-05{
+    width: 37vw;
+    height: 22vw;
+}
+
+.mb-img-06{
+    width: 30.6vw;
+    height: 22vw;
+}
+
+.mb-img-07{
+    width: 26vw;
+    height: 22vw;
+}
+
+
+
+.mb-dz-food-main-title{
+    height: auto; 
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+}
+
+.mb-dz-food-main-title img{
+    width: 30vw;
+}
+
+.mb-swiper02{
+    width: 100%;
+    padding-bottom: 10vw;
+}
+
+.mb-footer-main{
+    width: 95vw;
+}
+
+.mb-footer-main img{
+    width: 15vw;
+}
+
+.mb-footer-main-list-text{
+    padding-left: 5vw;
+}
+
+.mb-footer-main-list-text p{
+    height: 4vw;
+    line-height: 4vw;
+    font-size: 1.6vw;
+}
+
+.mb-footer-main-list-icon{
+    width: 15vw;
+    height: 13.6vw;
+}
+
+.mb-footer-main-list-icon img{
+    width: 13vw;
+}
+
+.mb-footer-main-list-icon-text p{
+    font-size: 1.6vw;
+    height: 2vw;
+    line-height: 2vw;
+}

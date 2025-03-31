@@ -1,0 +1,71 @@
+*{
+    margin: auto;
+    padding: 0;
+}
+
+a{
+    text-decoration: none;
+    color: inherit; /*继承上一级的默认颜色*/
+}
+
+ul,ol{
+    list-style: none;
+}
+
+html{
+    font-size: 90px;
+    font-family: Arial,微软雅黑;
+    color: #333;
+}
+
+body{
+    overflow-x: hidden;
+    height: 200vh; /* 设置超出高度，强制产生滚动条 */
+    overflow-y: scroll; /* 启用竖直滚动 */
+}
+
+.fl{
+    float: left;
+}
+
+.fr{
+    float: right;
+}
+
+.cb{
+    clear: both;
+}
+
+.oh{
+    overflow: hidden;
+}
+
+.bd{
+    font-weight: bold;
+}
+
+
+ #container {
+        overflow: hidden;
+        width: 800px;
+        height:400px;
+        margin: 0;
+        font-family: "微软雅黑";
+    }
+ ::-webkit-scrollbar {    /*滚动条整体*/
+  width: 10px;
+  height: 10px;
+}
+::-webkit-scrollbar-thumb {   /*滑块*/
+  background: #ccc;
+  border-radius: 10px;
+  box-shadow: 0 0 5px #999;/*X偏移量 Y偏移量 模糊半径 阴影颜色*/
+}
+::-webkit-scrollbar-track {    /*轨道*/
+  background: #eee;
+  box-shadow: 0 0 5px #999;
+}
+::-webkit-scrollbar-button {   /*按钮*/
+  background: #ccc;
+  box-shadow: 0 0 5px #999;
+} 

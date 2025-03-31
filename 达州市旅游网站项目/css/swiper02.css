@@ -1,0 +1,17 @@
+.swiper02 {
+  width: 100%;
+  padding-bottom: 4.3vw;
+}
+
+.dz-food .swiper-slide {
+  background-position: center;
+  background-size: cover;
+  height: 20vw;
+  width: auto;
+}
+
+.dz-food .swiper-slide img {
+  display: block;
+  height: 20vw;
+  width: auto;
+}
